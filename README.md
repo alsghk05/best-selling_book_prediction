@@ -1,4 +1,4 @@
-# Best-seller-prediction-based-on-deep-learning-with-book-information
+# 도서 정보를 활용한 딥러닝 기반 베스트 셀러 예측
 - **2024.12.10 ~ 현재**
 - 줄거리, 책 제목 등의 도서 정보를 활용하여 도서의 베스트 셀러를 예측하는 딥러닝 알고리즘 개발
 
